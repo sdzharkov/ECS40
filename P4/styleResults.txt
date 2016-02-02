@@ -1,0 +1,27 @@
+Processing :  /home/zharkov/ECS40/P4N/plane.cpp
+Processing :  /home/zharkov/ECS40/P4N/main.cpp
+/home/zharkov/ECS40/P4N/main.cpp(100, 1):  Do not write function over 35 lines(determineBestPlane).  [RULE_6_1_G_write_less_than_35_lines_for_function] 
+/home/zharkov/ECS40/P4N/main.cpp(122, 0):  Right curly brackets must be commented.  [RULE_5_4_A_provide_comment_for_right_braces] 
+/home/zharkov/ECS40/P4N/main.cpp(122, 5):  need empty line or less indented right brace after right brace   [RULE_4_6_B_need_empty_line_or_less_indented_right_brace_after_right_brace] 
+Processing :  /home/zharkov/ECS40/P4N/vector.h
+Processing :  /home/zharkov/ECS40/P4N/city.h
+Processing :  /home/zharkov/ECS40/P4N/city.cpp
+Processing :  /home/zharkov/ECS40/P4N/plane.h
+Processing :  /home/zharkov/ECS40/P4N/vector.cpp
+
+
+=================================== Summary Report ===================================
+ ** Total Available Rules     : 52
+ ** Total Applied Rules       : 34
+ ** Total Violated Rules      : 3
+ ** Total Errors Occurs       : 3
+ ** Total Analyzed Files      : 7
+ ** Total Violated Files Count: 1
+ ** Build Quality             : 85.71%
+
+================================ Violated Rule Details ===============================
+ -  RULE_4_6_B_need_empty_line_or_less_indented_right_brace_after_right_brace rule violated : 1
+ -  RULE_5_4_A_provide_comment_for_right_braces rule violated : 1
+ -  RULE_6_1_G_write_less_than_35_lines_for_function rule violated : 1
+
+================================ Violated File Details ===============================

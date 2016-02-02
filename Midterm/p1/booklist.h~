@@ -1,0 +1,51 @@
+
+#ifndef BOOKLIST_H
+   #define BOOKLIST_H
+
+using namespace std;
+
+class BookList;
+
+class BookNode
+{
+  char *title;
+  BookNode *next;
+protected:
+  char *author;
+public:
+  BookNode(const char *titl, const char *auth);
+  virtual ~BookNode();
+  const char* getAuthor();
+  const char* getTitle() const;
+  virtual void write (ostream &os) const;
+  friend class BookList;
+};
+
+class TextBookNode: public BookNode
+{
+  char *course;
+public:
+  TextBookNode(const char *titl, const char *auth, const char *cours);
+  ~TextBookNode();
+  void write(ostream &os) const;
+  const char* getCourse() const;
+};
+
+class BookList
+{
+  BookNode *head;
+  BookNode *tail;
+  int count;
+public:
+  BookList();
+  ~BookList();
+  void write(char *outfile);
+  void insert(BookNode *n);
+};
+
+#endif
+
+
+
+
+

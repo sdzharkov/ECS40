@@ -1,0 +1,12 @@
+As with p5, the Const checker will only be run after the deadline.
+You will receive a zero for consts until then.
+Scores from p6 for You need to create an authors.txt file!!!! No one will receive credit for this assignment
+
+Addresses used: SeansSrc/@ucdavis.edu
+ 
+Style: 5 out of 5
+Design: 9 out of 9
+Const: 9 out of 9
+Operation: 27 out of 27
+Warnings (subtracted final score down to zero): 0
+Total: 50 out of 50.

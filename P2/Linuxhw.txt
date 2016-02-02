@@ -1,0 +1,7 @@
+1) 
+
+2) cat hw.txt|tail -2|head -1
+
+3)Wildcards are special characters that are interpreted by the shell before
+	
+

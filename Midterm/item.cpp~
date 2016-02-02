@@ -1,0 +1,50 @@
+#include <iostream>
+#include <fstream>
+#include <iomanip>
+#include "item.h"
+
+Item::Item (const char *n, float pr) : price(pr), count(0)
+{
+  name = new char[strlen(n) + 1];
+	strcpy(name, n);
+}
+
+
+ostream& operator << (ostream& os, Item &rhs)
+{
+  for (int i = 0; i < rhs.getCount();i++)
+    {
+    //if (ptr)
+      //os << setw(15) << rhs.ptr << setw(5) << rhs.price << setw(12) << rhs.name;
+    //else
+      os << setw(15) << rhs.price << setw(5) << rhs.name;
+    }
+  return os;
+}
+/*
+bool Item::operator > (const Item &rhs) const
+{
+  //if (strcmp(name,rhs.name) < 0)
+  	return true;
+  //else 
+  //	return false;
+}
+*/
+/*
+void Item::read(char *line)
+{
+		char *ptr;
+		float price = 0;
+		Item item;
+  
+    strtok(line, ",");
+  	price = atof(strtok(NULL, ","));
+  	ptr = strtok(NULL, ",");
+  	if (ptr)
+  	  item = new Persh(name, price, ptr);
+    else
+      item = new Item(name, price);
+      
+    Item += item;
+}
+*/

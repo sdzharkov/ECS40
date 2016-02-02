@@ -1,0 +1,43 @@
+Processing :  /home/zharkov/ECS40/P6/city.cpp
+Processing :  /home/zharkov/ECS40/P6/city.h
+Processing :  /home/zharkov/ECS40/P6/main.cpp
+/home/zharkov/ECS40/P6/main.cpp(316, 5):  need empty line or less indented right brace after right brace   [RULE_4_6_B_need_empty_line_or_less_indented_right_brace_after_right_brace] 
+Processing :  /home/zharkov/ECS40/P6/plane.cpp
+Processing :  /home/zharkov/ECS40/P6/plane.h
+Processing :  /home/zharkov/ECS40/P6/airport.h
+Processing :  /home/zharkov/ECS40/P6/list.h
+Processing :  /home/zharkov/ECS40/P6/list.cpp
+Processing :  /home/zharkov/ECS40/P6/airport.cpp
+Processing :  /home/zharkov/ECS40/P6/shapes.cpp
+/home/zharkov/ECS40/P6/shapes.cpp(20, 0):  Right curly brackets must be commented.  [RULE_5_4_A_provide_comment_for_right_braces] 
+Processing :  /home/zharkov/ECS40/P6/SeansSrc/city.cpp
+/home/zharkov/ECS40/P6/SeansSrc/city.cpp(1, 0):  Do not use same filename(city.cpp) more than once. This filename is used in /home/zharkov/ECS40/P6/city.cpp, /home/zharkov/ECS40/P6/SeansSrc/city.cpp  [RULE_3_2_B_do_not_use_same_filename_more_than_once] 
+Processing :  /home/zharkov/ECS40/P6/SeansSrc/main.cpp
+/home/zharkov/ECS40/P6/SeansSrc/main.cpp(1, 0):  Do not use same filename(main.cpp) more than once. This filename is used in /home/zharkov/ECS40/P6/main.cpp, /home/zharkov/ECS40/P6/SeansSrc/main.cpp  [RULE_3_2_B_do_not_use_same_filename_more_than_once] 
+Processing :  /home/zharkov/ECS40/P6/SeansSrc/vector.cpp
+Processing :  /home/zharkov/ECS40/P6/SeansSrc/city.h
+/home/zharkov/ECS40/P6/SeansSrc/city.h(1, 0):  Do not use same filename(city.h) more than once. This filename is used in /home/zharkov/ECS40/P6/city.h, /home/zharkov/ECS40/P6/SeansSrc/city.h  [RULE_3_2_B_do_not_use_same_filename_more_than_once] 
+Processing :  /home/zharkov/ECS40/P6/SeansSrc/vector.h
+Processing :  /home/zharkov/ECS40/P6/SeansSrc/plane.cpp
+/home/zharkov/ECS40/P6/SeansSrc/plane.cpp(1, 0):  Do not use same filename(plane.cpp) more than once. This filename is used in /home/zharkov/ECS40/P6/plane.cpp, /home/zharkov/ECS40/P6/SeansSrc/plane.cpp  [RULE_3_2_B_do_not_use_same_filename_more_than_once] 
+Processing :  /home/zharkov/ECS40/P6/SeansSrc/plane.h
+/home/zharkov/ECS40/P6/SeansSrc/plane.h(1, 0):  Do not use same filename(plane.h) more than once. This filename is used in /home/zharkov/ECS40/P6/plane.h, /home/zharkov/ECS40/P6/SeansSrc/plane.h  [RULE_3_2_B_do_not_use_same_filename_more_than_once] 
+Processing :  /home/zharkov/ECS40/P6/SeansSrc/citylist.cpp
+Processing :  /home/zharkov/ECS40/P6/SeansSrc/citylist.h
+
+
+=================================== Summary Report ===================================
+ ** Total Available Rules     : 52
+ ** Total Applied Rules       : 34
+ ** Total Violated Rules      : 3
+ ** Total Errors Occurs       : 7
+ ** Total Analyzed Files      : 19
+ ** Total Violated Files Count: 7
+ ** Build Quality             : 63.16%
+
+================================ Violated Rule Details ===============================
+ -  RULE_3_2_B_do_not_use_same_filename_more_than_once rule violated : 5
+ -  RULE_5_4_A_provide_comment_for_right_braces rule violated : 1
+ -  RULE_4_6_B_need_empty_line_or_less_indented_right_brace_after_right_brace rule violated : 1
+
+================================ Violated File Details ===============================

@@ -1,0 +1,3914 @@
+1:OK
+2:OK
+3:
+Differences on  input3.txt
+Yours:
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+2531       2570   5     777-300   $462461
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Seans:
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+2531       2570   8     767-300ER $428816
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5):  
+4:
+Differences on  input4.txt
+Yours:
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+911        956    2     777-300   $69873
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Seans:
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+911        956    5     737-800   $57064
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5):  
+5:OK
+6:
+Differences on  input6.txt
+Yours:
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+375        1246   1     777-300   $45453
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+919        2606   2     777-300   $187501
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+149        1735   1     777-300   $62926
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+339        432    1     777-300   $16241
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+64         368    1     777-300   $14004
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+133        771    1     777-300   $28470
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+72         1631   1     777-300   $58911
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+93         2254   1     777-300   $81447
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+57         635    1     777-300   $23716
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+42         1448   1     777-300   $52514
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+1040       240    2     777-300   $19058
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+101        2181   1     777-300   $78515
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+187        497    1     777-300   $18513
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+117        1462   1     777-300   $53003
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+42         1963   1     777-300   $70895
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+55         412    1     777-300   $15542
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+27         1076   1     777-300   $39131
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+51         318    1     777-300   $12256
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+58         1194   1     777-300   $43636
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+60         987    1     777-300   $36020
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+71         658    1     777-300   $24520
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+298        851    1     777-300   $31266
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+529        1597   1     777-300   $57722
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+54         2546   1     777-300   $91654
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+36         379    1     777-300   $14388
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+28         931    1     777-300   $34063
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+667        597    2     777-300   $44776
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+70         222    1     777-300   $8900
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+38         779    1     777-300   $28750
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+84         1530   1     777-300   $55380
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+42         902    1     777-300   $33049
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+45         711    1     777-300   $26373
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+56         711    1     777-300   $26373
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+25         654    1     777-300   $24380
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+272        2397   1     777-300   $86446
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+28         416    1     777-300   $15681
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+66         1312   1     777-300   $47760
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+25         1324   1     777-300   $48180
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+21         518    1     777-300   $19247
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+6          1723   1     777-300   $62506
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+19         498    1     777-300   $18548
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+21         2314   1     777-300   $83544
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+36         2431   1     777-300   $87634
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+26         525    1     777-300   $19491
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+15         681    1     777-300   $25324
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+17         528    1     777-300   $19596
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+18         2375   1     777-300   $85677
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+29         3971   0     777-300   $2147483647
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+8          1525   1     777-300   $55206
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+48         698    1     777-300   $25918
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+14         1582   1     777-300   $57198
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+20         777    1     777-300   $28680
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+15         592    1     777-300   $22213
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+4          2128   1     777-300   $76663
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+30         372    1     777-300   $14143
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+28         2249   1     777-300   $81272
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+14         583    1     777-300   $21899
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+24         2135   1     777-300   $76908
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+20         460    1     777-300   $17219
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+42         1149   1     777-300   $42063
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+0          87     0     777-300   $0
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+13         932    1     777-300   $34098
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+14         913    1     777-300   $33434
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+0          0      0     777-300   $0
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+12         308    1     777-300   $11906
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+27         834    1     777-300   $30672
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+24         1097   1     777-300   $39865
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+5          925    1     777-300   $33853
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+18         470    1     777-300   $17569
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+10         1043   1     777-300   $37978
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+33         688    1     777-300   $25569
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+73         731    1     777-300   $27072
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+23         1814   1     777-300   $65687
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+11         124    1     777-300   $5475
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+6          992    1     777-300   $36195
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+5          136    1     777-300   $5894
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+10         1100   1     777-300   $39970
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+11         890    1     777-300   $32630
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+18         1561   1     777-300   $56464
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+68         493    1     777-300   $18373
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+9          1043   1     777-300   $37978
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+41         2401   1     777-300   $86585
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+72         693    1     777-300   $25744
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+248        680    1     777-300   $25289
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+4          757    1     777-300   $27981
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+8          1118   1     777-300   $40599
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+16         1318   1     777-300   $47970
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+6          743    1     777-300   $27491
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+9          1526   1     777-300   $55240
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+9          794    1     777-300   $29274
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+39         112    1     777-300   $5055
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+11         806    1     777-300   $29694
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+4          502    1     777-300   $18687
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+4          1803   1     777-300   $65303
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+58         1938   1     777-300   $70022
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+11         2219   1     777-300   $79844
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+0          45     0     777-300   $0
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+17         1923   1     777-300   $69497
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+108        1406   1     777-300   $51046
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+13         1685   1     777-300   $61178
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+25         1727   1     777-300   $62646
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+17         1217   1     777-300   $44440
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+12         1411   1     777-300   $51221
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+9          685    1     777-300   $25464
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+64         727    1     777-300   $26932
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+43         1871   1     777-300   $67680
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+8          618    1     777-300   $23122
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+10         1122   1     777-300   $41119
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+47         310    1     777-300   $11976
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+5          602    1     777-300   $22563
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+9          1918   1     777-300   $69322
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+14         663    1     777-300   $24695
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+8          1701   1     777-300   $61737
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+9          793    1     777-300   $29239
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+11         540    1     777-300   $20016
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+9          304    1     777-300   $11767
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+8          344    1     777-300   $13165
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+8          860    1     777-300   $31581
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+8          994    1     777-300   $36265
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+43         930    1     777-300   $34028
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+20         875    1     777-300   $32105
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+44         535    1     777-300   $19841
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+8          572    1     777-300   $21514
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+13         1550   1     777-300   $56079
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+18         538    1     777-300   $19946
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+12         249    1     777-300   $9844
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+0          14     0     777-300   $0
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+32         2555   1     777-300   $91968
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+7          962    1     777-300   $35146
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+43         327    1     777-300   $12570
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+6          818    1     777-300   $30113
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+9          1772   1     777-300   $64219
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+7          786    1     777-300   $28994
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+21         430    1     777-300   $16171
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+5          1288   1     777-300   $46921
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+11         351    1     777-300   $13409
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+7          554    1     777-300   $20505
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+10         348    1     777-300   $13305
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+31         1984   1     777-300   $71629
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+9          637    1     777-300   $23786
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+17         1092   1     777-300   $39690
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+6          2495   1     777-300   $89871
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+10         1289   1     777-300   $46956
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+30         2272   1     777-300   $82076
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+9          1783   1     777-300   $64604
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+12         404    1     777-300   $15262
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+7          1398   1     777-300   $50766
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+7          2009   1     777-300   $72503
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+23         1279   1     777-300   $46607
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+13         2453   1     777-300   $88403
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+8          1282   1     777-300   $46712
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+6          1878   1     777-300   $67924
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+0          44     0     777-300   $0
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+7          2423   1     777-300   $87354
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+12         464    1     777-300   $17359
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+14         2140   1     777-300   $77082
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Seans:
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+375        1246   2     737-800   $29639
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+919        2606   3     767-300ER $162965
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+149        1735   1     767-300ER $36595
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+339        432    1     767-300ER $9594
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+64         368    1     737-800   $4773
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+133        771    1     737-800   $9406
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+72         1631   1     767-300ER $34516
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+93         2254   1     767-300ER $47287
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+57         635    1     737-800   $7930
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+42         1448   1     737-800   $17011
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+1040       240    3     767-300ER $17270
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+101        2181   1     767-300ER $45828
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+187        497    1     737-800   $6173
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+117        1462   1     737-800   $17163
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+42         1963   1     767-300ER $41151
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+55         412    1     737-800   $5251
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+27         1076   1     737-800   $12975
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+51         318    1     737-800   $4231
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+58         1194   1     737-800   $14255
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+60         987    1     737-800   $11749
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+71         658    1     737-800   $8180
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+298        851    1     767-300ER $18288
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+529        1597   1     777-300   $57722
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+54         2546   1     767-300ER $53123
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+36         379    1     737-800   $4893
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+28         931    1     737-800   $11142
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+667        597    2     767-300ER $26423
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+70         222    1     737-800   $3189
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+38         779    1     737-800   $9493
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+84         1530   1     737-800   $17901
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+42         902    1     737-800   $10827
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+45         711    1     737-800   $8755
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+56         711    1     737-800   $8755
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+25         654    1     737-800   $8136
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+272        2397   1     767-300ER $50145
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+28         416    1     737-800   $5294
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+66         1312   1     737-800   $15536
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+25         1324   1     737-800   $15666
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+21         518    1     737-800   $6401
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+6          1723   1     767-300ER $36355
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+19         498    1     737-800   $6184
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+21         2314   1     767-300ER $48486
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+36         2431   1     767-300ER $50824
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+26         525    1     737-800   $6737
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+15         681    1     737-800   $8429
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+17         528    1     737-800   $6769
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+18         2375   1     767-300ER $49705
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): No planes available
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+8          1525   1     737-800   $17847
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+48         698    1     737-800   $8614
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+14         1582   1     767-300ER $33217
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+20         777    1     737-800   $9471
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+15         592    1     737-800   $7464
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+4          2128   1     767-300ER $44769
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+30         372    1     737-800   $4817
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+28         2249   1     767-300ER $47187
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+14         583    1     737-800   $7366
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+24         2135   1     767-300ER $44909
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+20         460    1     737-800   $5772
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+42         1149   1     737-800   $13767
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): No planes available
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+13         932    1     737-800   $11153
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+14         913    1     737-800   $10947
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): No planes available
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+12         308    1     737-800   $4122
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+27         834    1     737-800   $10089
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+24         1097   1     737-800   $13203
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+5          925    1     737-800   $11077
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+18         470    1     737-800   $5880
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+10         1043   1     737-800   $12357
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+33         688    1     737-800   $8505
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+73         731    1     737-800   $8972
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+23         1814   1     767-300ER $38174
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+11         124    1     737-800   $2126
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+6          992    1     737-800   $11804
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+5          136    1     737-800   $2256
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+10         1100   1     737-800   $13236
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+11         890    1     737-800   $10697
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+18         1561   1     767-300ER $32797
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+68         493    1     737-800   $6130
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+9          1043   1     737-800   $12357
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+41         2401   1     767-300ER $50225
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+72         693    1     737-800   $8560
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+248        680    1     767-300ER $14870
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+4          757    1     737-800   $9254
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+8          1118   1     737-800   $13431
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+16         1318   1     737-800   $15601
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+6          743    1     737-800   $9102
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+9          1526   1     737-800   $17858
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+9          794    1     737-800   $9655
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+39         112    1     737-800   $1996
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+11         806    1     737-800   $9786
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+4          502    1     737-800   $6227
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+4          1803   1     767-300ER $37954
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+58         1938   1     767-300ER $40652
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+11         2219   1     767-300ER $46588
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): No planes available
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+17         1923   1     767-300ER $40352
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+108        1406   1     737-800   $16556
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+13         1685   1     767-300ER $35596
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+25         1727   1     767-300ER $36435
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+17         1217   1     737-800   $14505
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+12         1411   1     737-800   $16610
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+9          685    1     737-800   $8473
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+64         727    1     737-800   $8928
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+43         1871   1     767-300ER $39313
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+8          618    1     737-800   $7746
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+10         1122   1     737-800   $13474
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+47         310    1     737-800   $4144
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+5          602    1     737-800   $7572
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+9          1918   1     767-300ER $40252
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+14         663    1     737-800   $8234
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+8          1701   1     767-300ER $35915
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+9          793    1     737-800   $9645
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+11         540    1     737-800   $6900
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+9          304    1     737-800   $4079
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+8          344    1     737-800   $4513
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+8          860    1     737-800   $10372
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+8          994    1     737-800   $11825
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+43         930    1     737-800   $11131
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+20         875    1     737-800   $10534
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+44         535    1     737-800   $6845
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+8          572    1     737-800   $7247
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+13         1550   1     767-300ER $32578
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+18         538    1     737-800   $6878
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+12         249    1     737-800   $3482
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): No planes available
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+32         2555   1     767-300ER $53303
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+7          962    1     737-800   $11478
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+43         327    1     737-800   $4328
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+6          818    1     737-800   $9916
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+9          1772   1     767-300ER $37334
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+7          786    1     737-800   $9569
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+21         430    1     737-800   $5446
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+5          1288   1     737-800   $15275
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+11         351    1     737-800   $4589
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+7          554    1     737-800   $7051
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+10         348    1     737-800   $4556
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+31         1984   1     767-300ER $41571
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+9          637    1     737-800   $7952
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+17         1092   1     737-800   $13149
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+6          2495   1     767-300ER $52103
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+10         1289   1     737-800   $15286
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+30         2272   1     767-300ER $47647
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+9          1783   1     767-300ER $37554
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+12         404    1     737-800   $5164
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+7          1398   1     737-800   $16469
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+7          2009   1     767-300ER $42071
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+23         1279   1     737-800   $15178
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+13         2453   1     767-300ER $51264
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+8          1282   1     737-800   $15210
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+6          1878   1     767-300ER $39453
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): No planes available
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+7          2423   1     767-300ER $50665
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+12         464    1     737-800   $5815
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+14         2140   1     767-300ER $45009
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5):  
+7:OK
+8:OK
+9:OK
+10:OK
+11:OK
+12:OK
+13:
+Differences on  input13.txt
+Yours:
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+12690      2460   0     787-3     $2147483647
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Seans:
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): No planes available
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 

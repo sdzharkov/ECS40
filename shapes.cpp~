@@ -1,0 +1,104 @@
+#include <iostream>
+#include <cstring>
+#include <climits>
+#include <cctype>
+#include <iomanip>
+#include <cstdlib>
+
+using namespace std;
+
+
+class Shape
+{
+public:
+  friend ostream& operator << (ostream& output, const Shape &rhs);
+  virtual void write(ostream& output) const = 0;
+}; //shape class
+
+
+class IntersectingLines: public Shape
+{
+public:
+  void write(ostream& output) const
+  { 
+  //  cout << setw(5) << "/" << "\\" << endl
+  //      << setw(4) << "/" << setw(3) << "\\" << endl
+  //      << setw(3) << "/" << setw(5) << "\\" << endl
+  //      << setw(2) << "/" << setw(7) << "\\" << endl
+  //      << setw(1) << "/" << setw(9) << "\\" << endl;
+  cout << "    /\\\n   /  \\\n  /    \\\n /      \\\n/        \\\n";
+  }  // write()
+}; // intersecting lines class
+
+
+class ParallelLines: public Shape
+{
+public:
+    void write(ostream& output) const
+    {
+    
+        //cout << "|" << setw(9) << "|" << endl
+        //<< "|" << setw(9) << "|" << endl
+        //<< "|" << setw(9) << "|" << endl;
+        cout << "|        |\n|        |\n|        |\n";
+    } //write()
+}; // parallel lines class
+
+
+class BaseLine: public Shape
+{
+public:
+  void write(ostream& output) const
+  {
+    cout << "----------" << endl;
+  } //
+}; //
+
+
+class BlankLines: public Shape
+{
+public:
+  void write(ostream& output) const
+  {
+    cout << "\n\n";
+  } //write()
+}; //blank lines class
+
+
+class Circle: public Shape
+{
+public:
+  void write(ostream& output) const
+  {
+    //cout << setw(5) << "*" << endl
+     //   << setw(3) << "*" << setw(4) << "*" << endl
+     //   << setw(4) << "*" << setw(2) << "*" << endl;
+     cout << "    *\n  *   *\n   * *\n";
+  } //write()
+}; //circle class
+
+
+ostream& operator << (ostream& output, const Shape &rhs)
+{
+  rhs.write(output);
+  return output;
+} //operator<<
+
+int main()
+{
+  Shape *shapes[9];
+  shapes[0] = new IntersectingLines;
+  shapes[1] = new BaseLine;
+  shapes[2] = new ParallelLines;
+  shapes[3] = new BaseLine;
+  shapes[4] = new BlankLines;
+  shapes[5] = new Circle;
+  shapes[6] = new IntersectingLines;
+  shapes[7] = new BaseLine;
+  shapes[8] = new IntersectingLines;
+    
+  for (int i = 0; i < 9; ++i)
+    cout << *shapes[i];
+    
+  return 0;
+} //main

@@ -1,0 +1,19 @@
+Processing :  /home/zharkov/ECS40/p8/scrabble.cpp
+/home/zharkov/ECS40/p8/scrabble.cpp(71, 1):  Do not write function over 35 lines(readFile).  [RULE_6_1_G_write_less_than_35_lines_for_function] 
+/home/zharkov/ECS40/p8/scrabble.cpp(100, 16):  need empty line, less indented control, or less indented right brace above control statement  [RULE_4_6_A_need_empty_line_or_control_or_less_indented_right_brace_above_control_statement] 
+
+
+=================================== Summary Report ===================================
+ ** Total Available Rules     : 52
+ ** Total Applied Rules       : 34
+ ** Total Violated Rules      : 2
+ ** Total Errors Occurs       : 2
+ ** Total Analyzed Files      : 1
+ ** Total Violated Files Count: 1
+ ** Build Quality             : 0.00%
+
+================================ Violated Rule Details ===============================
+ -  RULE_4_6_A_need_empty_line_or_control_or_less_indented_right_brace_above_control_statement rule violated : 1
+ -  RULE_6_1_G_write_less_than_35_lines_for_function rule violated : 1
+
+================================ Violated File Details ===============================

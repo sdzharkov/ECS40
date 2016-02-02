@@ -1,0 +1,5 @@
+milk,2.39,11-30-02
+coke,3.49
+toilet paper,3.88
+filet mignon,15.88,11-21-02
+

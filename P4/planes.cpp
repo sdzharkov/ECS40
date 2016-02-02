@@ -1,0 +1,120 @@
+
+#include <iostream>
+#include <fstream>
+#include <iomanip>
+#include <cstdlib>
+#include <cstring>
+#include <cctype>
+#include <cmath>
+#include <climits>
+#include "plane.h"
+using namespace std;
+
+void Plane::print()
+{
+  cout << "name " << name << endl;
+    cout << "passengers " << passengers << endl;
+  cout << "range " << range << endl;
+  cout << "speed " << speed << endl;
+  cout << "fuel " << fuel << endl;
+  cout << "price " << price << endl<<endl;
+}
+
+void Plane::displayPlaneInformation()
+{
+    cout << setw(12) << left << name << setw(6);
+    cout << passengers;
+    if (range >= 1000)
+    {
+      cout << range / 1000 << "," << setfill('0') << setw(3) 
+           << right << range % 1000 << setfill(' ');
+    }
+    else
+    {
+      cout << setw(5) << right << range;
+    }
+    cout << setw(4) << right << speed;
+    if (fuel >= 1000)
+    {
+      cout << setw(5) << fuel / 1000 << ',' << setfill('0') << setw(3) 
+           << fuel % 1000 << setfill(' ');
+    }
+    else
+    {
+      cout << setw(10) << fuel;
+    }
+    cout << setw(6) << fixed << setprecision(3) << range / (double) fuel << setw(6)
+         << setprecision(2) << (fuelPrice * fuel) / range << setw(2) << "$" << setw(5)
+         << setprecision(1) << price / 1000000.0 << endl;
+}
+
+void Plane::newPlane()
+{
+  cout <<"\nName: ";
+  cin >> name;
+  cout << "Passengers: ";
+  cin >> passengers;
+  cout << "Fuel Capacity (in U.S. gallons): ";
+  cin >> fuel;
+  cout << "Range (in miles): ";
+  cin >> range;
+  cout << "Speed (in mph): ";
+  cin >> speed;
+  cout << "Price: ";
+  cin >> price;
+}
+
+const char* Plane::getName() const
+{
+  return name;
+}
+
+int Plane::calcCost(int distance,int totPassengers,int &trip) const
+{
+  //double hours;
+  double workHours, hours;
+  double fuelCost, attendantSalary, pilotSalary, maintenance;
+  if (distance <= range)
+    {
+    trip = ceil((double)totPassengers / passengers);
+    //cout << trip << endl;
+    fuelCost = (fuelPrice * fuel * distance) / range;
+    //cout << fuelCost << endl;
+    hours = distance / (double)speed; 
+    //cout << hours << endl;
+    workHours = ceil((double)hours + 2);
+    //cout << workHours << endl;
+    //attendantSalary = attendantHourly * ceil((double)hours + 2) * 
+    //  (ceil((double)totPassengers / 100));
+    attendantSalary = ceil((double)hours + 2) * ceil((double) passengers / 100) 
+    * attendantHourly;
+    //cout << attendantSalary << endl;
+    pilotSalary =  2 * pilotHourly * workHours;
+    //cout << pilotSalary << endl;
+    maintenance = (.000025 * price * hours); 
+    //cout << maintenance << endl << endl;
+    return ceil(trip * (fuelCost + attendantSalary + pilotSalary + maintenance));
+    }
+  else 
+    {
+    trip = 0;
+    return INT_MAX;
+    }
+  }
+  
+void Plane::displayInfo(int passengers, int distance, int trips, int cheapest)
+{
+  cout << "Passengers Miles  Trips Name      Cost\n";  
+  cout << left << setw(11) << passengers << setw(7) << distance << setw(6)
+       <<trips << setw(10) << name << "$" << cheapest << endl;
+}
+
+ostream& operator <<(ostream &os, const Plane &rhs)
+{
+  os << rhs.name << rhs.passengers << rhs.range
+    << rhs.speed << rhs.fuel << rhs.price << endl;
+  return os;
+}
+
+
+

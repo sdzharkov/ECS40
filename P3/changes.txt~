@@ -1,0 +1,10 @@
+Changes Text File
+
+In city.cpp
+	add U to calcDistance line 76
+	
+	add to 72   strncpy(airport, rhs.airport);
+	
+	
+Vector.cpp
+	

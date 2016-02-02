@@ -1,0 +1,23 @@
+Changes Text File
+
+In city.cpp
+
+line 57 
+ else //
+   name = NULL;
+   
+line 65
+  else
+    state = NULL;
+    
+    
+	add U to calcDistance line 76
+	
+	add to 72   strncpy(airport, rhs.airport);
+	
+	
+Vector.cpp
+
+line 47
+  change airpor to airport and everything else
+	

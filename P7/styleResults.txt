@@ -1,0 +1,17 @@
+Processing :  /home/zharkov/ECS40/p7/editor.cpp
+/home/zharkov/ECS40/p7/editor.cpp(193, 3):  need empty line or less indented right brace after right brace   [RULE_4_6_B_need_empty_line_or_less_indented_right_brace_after_right_brace] 
+
+
+=================================== Summary Report ===================================
+ ** Total Available Rules     : 52
+ ** Total Applied Rules       : 34
+ ** Total Violated Rules      : 1
+ ** Total Errors Occurs       : 1
+ ** Total Analyzed Files      : 1
+ ** Total Violated Files Count: 1
+ ** Build Quality             : 0.00%
+
+================================ Violated Rule Details ===============================
+ -  RULE_4_6_B_need_empty_line_or_less_indented_right_brace_after_right_brace rule violated : 1
+
+================================ Violated File Details ===============================

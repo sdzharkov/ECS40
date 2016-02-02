@@ -1,0 +1,26 @@
+Processing :  /home/zharkov/ECS40/P4F/plane.cpp
+Processing :  /home/zharkov/ECS40/P4F/city.cpp
+Processing :  /home/zharkov/ECS40/P4F/city.h
+Processing :  /home/zharkov/ECS40/P4F/main.cpp
+Processing :  /home/zharkov/ECS40/P4F/plane.h
+Processing :  /home/zharkov/ECS40/P4F/vector.cpp
+Processing :  /home/zharkov/ECS40/P4F/vector.h
+Processing :  /home/zharkov/ECS40/P4F/ins.c
+/home/zharkov/ECS40/P4F/ins.c(46, 7):  need empty line, less indented control, or less indented right brace above control statement  [RULE_4_6_A_need_empty_line_or_control_or_less_indented_right_brace_above_control_statement] 
+/home/zharkov/ECS40/P4F/ins.c(82, 16):  Provide spaces after operator ','  [RULE_4_2_A_A_space_around_operator] 
+
+
+=================================== Summary Report ===================================
+ ** Total Available Rules     : 52
+ ** Total Applied Rules       : 34
+ ** Total Violated Rules      : 2
+ ** Total Errors Occurs       : 2
+ ** Total Analyzed Files      : 8
+ ** Total Violated Files Count: 1
+ ** Build Quality             : 87.50%
+
+================================ Violated Rule Details ===============================
+ -  RULE_4_2_A_A_space_around_operator rule violated : 1
+ -  RULE_4_6_A_need_empty_line_or_control_or_less_indented_right_brace_above_control_statement rule violated : 1
+
+================================ Violated File Details ===============================

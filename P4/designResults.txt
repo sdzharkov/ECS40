@@ -1,0 +1,1 @@
+Design error: Overloaded << operator for Plane not found in displayPlaneInformation().
